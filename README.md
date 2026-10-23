@@ -3,7 +3,9 @@
 ##Integrantes
 
 Angie Salome Barrera Roldan - 507241701
+
 Andres Felipe Cruz Osorio - 507241703
+
 Sebastian Molina Murillo - 507241036
 
 ##Descripcion del Caso
