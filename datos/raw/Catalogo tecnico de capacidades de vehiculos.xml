@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalogo_vehiculos>
+  <vehiculo>
+    <id>1</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Microbús estándar para rutas urbanas cortas y transporte alimentador.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>2</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Microbús VIP con aire acondicionado e iluminación LED ambiental.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>3</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus intermunicipal estándar con maletero amplio y ventilación directa.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>4</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Bus ejecutivo con baño, conector USB por asiento y Wi-Fi a bordo.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>5</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Buseta urbana para rutas de mediana densidad y paso rápido.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>6</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Transporte escolar o empresarial básico con cinturones de seguridad individuales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>7</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Servicio especial para turismo receptivo con asientos ergonómicos de cuero.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>8</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus para rutas regionales estándar y servicio intermunicipal regular.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>9</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>38</capacidad_pasajeros>
+    <descripcion>Bus de gran confort con asientos reclinables 140 grados y pantallas individuales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>10</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>24</capacidad_pasajeros>
+    <descripcion>Buseta de conexión rural-urbana de diseño robusto.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>11</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Microbús de servicio masivo corto con espacio central para equipaje ligero.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>12</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Van de lujo tipo ejecutivo para traslados corporativos privados.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>13</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Bus intermunicipal de alta capacidad con chasis reforzado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>14</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus de servicio Suite con puertos de carga rápida y climatización bizona.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>15</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Buseta rápida para recorridos intermunicipales de corta distancia.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>16</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Microbús estándar de transporte colectivo urbano.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>17</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Microbús de turismo premium con vidrios panorámicos panorámicos y aislamiento acústico.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>18</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>38</capacidad_pasajeros>
+    <descripcion>Bus interregional básico con amplias ventanas y bodegas inferiores.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>19</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus turístico equipado con pantalla general, baños y suspensión neumática.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>20</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Buseta de ruta periférica urbana de fácil acceso.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>21</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>19</capacidad_pasajeros>
+    <descripcion>Microbús colectivo intermunicipal de alta rotación de pasajeros.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>22</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Microbús para transfers aeroportuarios con maletero posterior amplio.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>23</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Bus de servicio regular con suspensión de ballestas y motor diésel.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>24</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>24</capacidad_pasajeros>
+    <descripcion>Bus súper lujo con asientos tipo cama y servicio de cafetería a bordo.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>25</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Buseta de conexión interparroquial o veredal.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>26</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Microbús liviano para transporte de personal técnico.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>27</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Microbús ejecutivo con conectividad Bluetooth individual y portavasos.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>28</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus para transporte de contingencia corporativa o viajes grupales básicos.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>29</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus de larga distancia equipado con sistema de audio individual y doble baño.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>30</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>25</capacidad_pasajeros>
+    <descripcion>Buseta urbana con validador electrónico y puertas de aire comprimido.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>31</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Microbús escolar para zonas de tráfico denso.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>32</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>18</capacidad_pasajeros>
+    <descripcion>Microbús de turismo con guía a bordo y micrófono integrado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>33</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus directo intermunicipal con espacio para equipaje de mano superior.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>34</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Bus charter de lujo para eventos especiales y delegaciones deportivas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>35</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>21</capacidad_pasajeros>
+    <descripcion>Buseta tradicional con piso antideslizante y pasamanos reforzados.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>36</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>15</capacidad_pasajeros>
+    <descripcion>Microbús institucional para entidades públicas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>37</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Microbús de transporte presidencial o VIP con mesas abatibles.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>38</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Bus expreso regional para transporte entre ciudades intermedias.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>39</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>38</capacidad_pasajeros>
+    <descripcion>Bus Gran Turismo con asientos de cuero reclinables y reposapiés.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>40</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>23</capacidad_pasajeros>
+    <descripcion>Buseta de bajo consumo para rutas de bajo volumen de usuarios.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>41</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>17</capacidad_pasajeros>
+    <descripcion>Microbús estándar para traslados nocturnos o turnos rotativos.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>42</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Microbús con techo panorámico y aire acondicionado independiente por fila.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>43</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus convencional para transporte de trabajadores agrícolas u operarios.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>44</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus de servicio preferencial interregional con control de estabilidad avanzado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>45</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>28</capacidad_pasajeros>
+    <descripcion>Buseta extendida para mayor capacidad de asientos en hora pico.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>46</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>13</capacidad_pasajeros>
+    <descripcion>Microbús para servicios de shuttle de hoteles locales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>47</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Microbús corporativo con vidrios polarizados de fábrica y cortinas enrollables.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>48</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>39</capacidad_pasajeros>
+    <descripcion>Bus de ruta nacional básica con asientos anatómicos de fibra.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>49</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus nocturno con iluminación atenuada regulable y cobijas térmicas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>50</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Buseta compacta de alta maniobrabilidad en calles estrechas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>51</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>18</capacidad_pasajeros>
+    <descripcion>Microbús de enlace directo entre terminales de transporte.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>52</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>15</capacidad_pasajeros>
+    <descripcion>Microbús especial para recorridos de bodas y eventos corporativos.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>53</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Bus de servicio interprovincial estándar.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>54</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>36</capacidad_pasajeros>
+    <descripcion>Bus VIP primera clase con solo 3 filas de asientos para mayor espacio.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>55</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>24</capacidad_pasajeros>
+    <descripcion>Buseta de servicio regular con portamaletas interno.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>56</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Microbús de flota pública para rutas alimentadoras suburbanas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>57</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>17</capacidad_pasajeros>
+    <descripcion>Microbús de excursiones regionales con maletero exterior reforzado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>58</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Bus convencional de transporte de tropas u organizaciones.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>59</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus de larga distancia con monitores HD y centro de entretenimiento.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>60</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Buseta para transporte vecinal con acceso de puerta baja.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>61</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Microbús para transporte universitario o de campus.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>62</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Microbús de representación ejecutiva con acabados en madera.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>63</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>24</capacidad_pasajeros>
+    <descripcion>Bus expreso regional sin paradas intermedias en configuración básica.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>64</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus de pasaje interurbano con purificador de aire UV y minibar.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>65</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>25</capacidad_pasajeros>
+    <descripcion>Buseta estándar con sistema de megafonía básico.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>66</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Microbús para inspecciones de campo o ingeniería.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>67</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Microbús de turismo urbano hop-on hop-off especial.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>68</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Bus intercommunal con tracción optimizada para rutas de montaña.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>69</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>15</capacidad_pasajeros>
+    <descripcion>Bus estelar con persianas automáticas y tomas de corriente 110V.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>70</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>21</capacidad_pasajeros>
+    <descripcion>Buseta versátil para transporte de grupos pequeños en ciudad.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>71</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>19</capacidad_pasajeros>
+    <descripcion>Microbús urbano de alto tránsito y fácil limpieza de interiores.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>72</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Microbús de servicio especial charter con monitores individuales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>73</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus de servicio básico interprovincial con aire natural regulable.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>74</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Bus intermunicipal premium con sensor de punto ciego y frenado autónomo.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>75</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>27</capacidad_pasajeros>
+    <descripcion>Buseta de capacidad media para transporte industrial de planta.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>76</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>15</capacidad_pasajeros>
+    <descripcion>Microbús para patrullaje o brigadas médicas móviles equipadas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>77</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Microbús de lujo con suspensión neumática para viajes ultrasuaves.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>78</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>38</capacidad_pasajeros>
+    <descripcion>Bus de línea regular con tapicería lavable y suelo reforzado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>79</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>42</capacidad_pasajeros>
+    <descripcion>Bus interurbano de gama alta con desfibrilador a bordo y kit de primeros auxilios VIP.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>80</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>14</capacidad_pasajeros>
+    <descripcion>Buseta de servicio alimentador para terminales de integración.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>81</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>17</capacidad_pasajeros>
+    <descripcion>Microbús comercial estándar para agencias de viajes locales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>82</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>12</capacidad_pasajeros>
+    <descripcion>Van ejecutiva ultra VIP con asientos de masajes y mesa de reuniones.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>83</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Bus interdistrital con letreros LED frontales para rutas.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>84</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus internacional de larga distancia con litera para conductor de relevo.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>85</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>24</capacidad_pasajeros>
+    <descripcion>Buseta de ruta metropolitana fija con validador sin contacto.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>86</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>13</capacidad_pasajeros>
+    <descripcion>Microbús de servicio privado para clubes sociales o deportivos.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>87</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>18</capacidad_pasajeros>
+    <descripcion>Microbús turístico para cruceros con guía bilingüe adaptado.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>88</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>44</capacidad_pasajeros>
+    <descripcion>Bus de pasaje corriente con amplias puertas de descenso.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>89</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>36</capacidad_pasajeros>
+    <descripcion>Bus Royal Class con distancia extendida entre piernas y reposacabezas anatómico.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>90</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Buseta para transporte de personal de construcción o minería.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>91</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>16</capacidad_pasajeros>
+    <descripcion>Microbús para traslados en aeropuertos entre pistas y terminales.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>92</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Microbús ejecutivo con red 5G integrada y mesas para laptop.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>93</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>40</capacidad_pasajeros>
+    <descripcion>Bus de enlace intermunicipal sin lujos pero eficiente en combustible.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>94</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>22</capacidad_pasajeros>
+    <descripcion>Bus turístico de dos ambientes con baño en nivel inferior.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>95</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>26</capacidad_pasajeros>
+    <descripcion>Buseta para trayectos suburbanos de tarifa única.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>96</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>45</capacidad_pasajeros>
+    <descripcion>Microbús auxiliar de apoyo logístico y de personal.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>97</id>
+    <clase_vehiculo>Microbús</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>17</capacidad_pasajeros>
+    <descripcion>Microbús VIP con climatizador automático y luz de lectura individual.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>98</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>15</capacidad_pasajeros>
+    <descripcion>Bus de gran longitud para transporte masivo interprovincial.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>99</id>
+    <clase_vehiculo>Bus</clase_vehiculo>
+    <nivel_servicio>Lujo</nivel_servicio>
+    <capacidad_pasajeros>38</capacidad_pasajeros>
+    <descripcion>Bus trascontinental de máxima confortabilidad con sistema de aislamiento de ruido exterior.</descripcion>
+  </vehiculo>
+  <vehiculo>
+    <id>100</id>
+    <clase_vehiculo>Buseta</clase_vehiculo>
+    <nivel_servicio>Básico</nivel_servicio>
+    <capacidad_pasajeros>46</capacidad_pasajeros>
+    <descripcion>Buseta ágil de tracción reinforced para terreno destapado o rural.</descripcion>
+  </vehiculo>
+</catalogo_vehiculos>
