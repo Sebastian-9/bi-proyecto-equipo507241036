@@ -1,0 +1,21 @@
+﻿id;clase_vehiculo;nivel_servicio;capacidad_pasajeros;descripcion
+1;Microbús;Básico;12;Microbús estándar para rutas urbanas cortas y transporte alimentador.
+2;Microbús;Lujo;14;Microbús VIP con aire acondicionado e iluminación LED ambiental.
+3;Bus;Básico;40;Bus intermunicipal estándar con maletero amplio y ventilación directa.
+4;Bus;Lujo;44;Bus ejecutivo con baño, conector USB por asiento y Wi-Fi a bordo.
+5;Buseta;Básico;22;Buseta urbana para rutas de mediana densidad y paso rápido.
+6;Microbús;Básico;15;Transporte escolar o empresarial básico con cinturones de seguridad individuales.
+7;Microbús;Lujo;16;Servicio especial para turismo receptivo con asientos ergonómicos de cuero.
+8;Bus;Básico;42;Bus para rutas regionales estándar y servicio intermunicipal regular.
+9;Bus;Lujo;38;Bus de gran confort con asientos reclinables 140 grados y pantallas individuales.
+10;Buseta;Básico;24;Buseta de conexión rural-urbana de diseño robusto.
+11;Microbús;Básico;18;Microbús de servicio masivo corto con espacio central para equipaje ligero.
+12;Microbús;Lujo;12;Van de lujo tipo ejecutivo para traslados corporativos privados.
+13;Bus;Básico;45;Bus intermunicipal de alta capacidad con chasis reforzado.
+14;Bus;Lujo;40;Bus de servicio Suite con puertos de carga rápida y climatización bizona.
+15;Buseta;Básico;20;Buseta rápida para recorridos intermunicipales de corta distancia.
+16;Microbús;Básico;14;Microbús estándar de transporte colectivo urbano.
+17;Microbús;Lujo;15;Microbús de turismo premium con vidrios panorámicos panorámicos y aislamiento acústico.
+18;Bus;Básico;38;Bus interregional básico con amplias ventanas y bodegas inferiores.
+19;Bus;Lujo;42;Bus turístico equipado con pantalla general, baños y suspensión neumática.
+20;Buseta;Básico;26;Buseta de ruta periférica urbana de fácil acceso.
