@@ -8,9 +8,13 @@ Herramienta ETL: Pentaho Data Integration (Community Edition, versión 9.4 - Spo
 
 ##Parámetros de Conexión (Sin Credenciales)
 Host / Servidor: `localhost` (o IP del servidor configurado)
+
 Puerto: `3306`
+
 Base de Datos / Esquema: `transrutas_del_caribe`
+
 Usuario de Conexión: `root` (o el usuario asignado para el desarrollo, omitiendo contraseñas por seguridad)
+
 Tipo de Conexión: MySQL Native (JDBC)
 
 ##Ubicación Esperada de las Fuentes
