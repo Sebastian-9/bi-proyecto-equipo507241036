@@ -3,10 +3,13 @@
 
 
 ##Motor y Versión
+
 Motor de Base de Datos: MySQL 8.x
+
 Herramienta ETL: Pentaho Data Integration (Community Edition, versión 9.4 - Spoon)
 
 ##Parámetros de Conexión (Sin Credenciales)
+
 Host / Servidor: `localhost` (o IP del servidor configurado)
 
 Puerto: `3306`
@@ -18,13 +21,16 @@ Usuario de Conexión: `root` (o el usuario asignado para el desarrollo, omitiend
 Tipo de Conexión: MySQL Native (JDBC)
 
 ##Ubicación Esperada de las Fuentes
+
 Los archivos fuente originales de la operación de transporte deben ubicarse en la siguiente ruta o configurarse en las rutas absolutas de los componentes de entrada en Pentaho:
+
 * `data/source/Operacion_pasajeros_fechas_modificadas.csv` (Archivos planos de despachos y pasajeros)
 * Catálogos complementarios de referencia en formato Excel (`.xlsx`).
 
 
 
 ##Orden de Ejecución del ETL
+
 Para garantizar la integridad referencial y el correcto cargado de las llaves foráneas en el modelo en estrella, el orden estricto de ejecución de las transformaciones es el siguiente:
 
 ###Carga de Dimensiones Independientes:
